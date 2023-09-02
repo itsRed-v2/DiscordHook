@@ -1,0 +1,6 @@
+name: DiscordHook
+version: '${version}'
+main: net.itsred_v2.discordhook.Main
+api-version: '1.20'
+load: STARTUP
+authors: [itsRed_v2]
